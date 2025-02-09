@@ -2,4 +2,4 @@
 
 Zotero id: Ashish-97
 
-link:https://github.com/Ashish-97/mcis6273-s25-datamining/edit/main/README.md 
+link:https://www.zotero.org/ashish-97
